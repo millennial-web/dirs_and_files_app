@@ -1,6 +1,7 @@
 <?php
   class Folder {
     public $id;
+    public $parent_id;
     public $created;
     public $name;
 
